@@ -1,0 +1,97 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    margin: 0px;
+    color: #363958;
+}
+
+h1{
+    font-size: 35px;
+}
+h3
+{
+    font-size: 20px;
+}
+
+.txtclr
+{
+    color: orange;
+}
+
+section
+{
+    height: 500px;
+    padding-bottom: 200px;
+}
+
+.hlfwid
+{
+    width: 40%;
+    float: left;
+    margin: 2%;
+    padding: 3%;
+}
+
+.hlfwid img
+{
+    width: 80%;
+}
+
+.button
+{
+    text-decoration: none;
+    border: orange solid;
+    background-color: orange;
+    background-image: linear-gradient(tomato, lightsalmon );
+    border-radius: 7px;
+    color: papayawhip;
+    font-weight: 900;
+    padding: 8px 16px;
+}
+
+.pr
+{
+    padding-bottom: 25px;
+}
+
+#sec3
+{
+    background-color: #F8F9FC;
+}
+
+#hh
+{
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 80px;
+}
+
+.lstdiv
+{
+    width: 20%;
+    float: left;
+    height: 60%;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+
+}
+
+#d1
+{
+    margin-left: 13%;
+    margin-right: 2%;
+}
+#d3
+{
+    margin-right: 13%;
+    margin-left: 2%;
+}
+.lstdiv img
+{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
